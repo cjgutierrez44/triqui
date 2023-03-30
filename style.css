@@ -1,0 +1,18 @@
+.c{
+	height: 120px;
+	width: 120px;
+	border: 1px solid #808080;
+}
+
+.x{
+	background-image: url("img/x.png");
+	background-size: cover;
+	background-position: center;
+}
+
+.o{
+	background-image: url("img/o.png");
+	background-size: cover;
+	background-position: center;
+}
+
